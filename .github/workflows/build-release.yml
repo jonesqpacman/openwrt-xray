@@ -31,8 +31,8 @@ jobs:
             sdk_url_path: https://downloads.openwrt.org/snapshots/targets/bcm27xx/bcm2708
             sdk_name: -sdk-bcm27xx-bcm2708_
           - arch: arm_cortex-a15_neon-vfpv4
-            sdk_url_path: https://downloads.openwrt.org/snapshots/targets/ipq806x/generic
-            sdk_name: -sdk-ipq806x-generic_
+            sdk_url_path: https://downloads.openwrt.org/releases/21.02.3/targets/armvirt/32
+            sdk_name: -sdk-21.02.3-armvirt-32_
           - arch: arm_cortex-a5-vfpv4
             sdk_url_path: https://downloads.openwrt.org/snapshots/targets/at91/sama5
             sdk_name: -sdk-at91-sama5_
